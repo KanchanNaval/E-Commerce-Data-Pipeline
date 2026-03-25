@@ -9,9 +9,9 @@ Raw data flows through three layers — Bronze (raw ingestion), Silver (cleaned 
 
 # Notebooks
 
-01_bronze_ingestion — Loads raw CSV into Delta Lake
-02_silver_transformation — Cleans, deduplicates, and casts data types
-03_gold_aggregation — Builds revenue summaries by category, country, and customer
+- **01_bronze_ingestion — Loads raw CSV into Delta Lake
+- **02_silver_transformation — Cleans, deduplicates, and casts data types
+- **03_gold_aggregation — Builds revenue summaries by category, country, and customer
 
 # Key Highlights
 
